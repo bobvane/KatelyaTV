@@ -1,33 +1,7 @@
 {
-  "cache_time": 21600,
-  "api_cache_time": 3600,
+  "cache_time": 7200,
   "api_site": {
-    "hnzy": {
-      "api": "https://hnzyapi.com/api.php/provide/vod",
-      "name": "火鸟资源",
-      "is_adult": false
-    },
-    "lzzy": {
-      "api": "https://api.liangzizy.com/inc/apijson_vod.php",
-      "name": "量子资源",
-      "is_adult": false
-    },
-    "ffzy": {
-      "api": "https://ffzyapi.com/api.php/provide/vod",
-      "name": "非凡资源",
-      "is_adult": false
-    },
-    "ykzy": {
-      "api": "https://api.yongjiuzy.cc/provide/vod",
-      "name": "永久资源",
-      "is_adult": false
-    },
-    "bdzy": {
-      "api": "https://api.1080zyku.com/inc/apijson_vod.php",
-      "name": "百度资源",
-      "is_adult": false
-    },
-        "dyttzy": {
+    "dyttzy": {
       "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
       "name": "电影天堂资源",
       "detail": "http://caiji.dyttzyapi.com"
@@ -38,7 +12,7 @@
       "detail": "https://heimuer.tv"
     },
     "ruyi": {
-      "api": "http://cj.rycjapi.com/api.php/provide/vod",
+      "api": "https://cj.rycjapi.com/api.php/provide/vod",
       "name": "如意资源"
     },
     "bfzy": {
